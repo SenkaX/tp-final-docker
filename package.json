@@ -1,0 +1,12 @@
+{
+    "name": "tpfinal",
+    "version": "1.0.0",
+    "description": "TP final Docker",
+    "main": "index.js",
+    "scripts": {
+      "build": ""
+    },
+    "author": "Morgane",
+    "license": "ISC",
+    "dependencies": {}
+  }

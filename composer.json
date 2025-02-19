@@ -1,0 +1,7 @@
+{
+    "name": "morgane/tpfinal",
+    "description": "TP final Docker",
+    "require": {
+        "php": ">=7.4"
+    }
+}
